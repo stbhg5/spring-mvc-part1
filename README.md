@@ -6,6 +6,7 @@
 <h2>1. 웹 애플리케이션 이해<h2/>
     <a href="https://stbhg5.tistory.com/1091">웹 서버, 웹 애플리케이션 서버</a><br/>
     <a href="https://stbhg5.tistory.com/1093">서블릿</a><br/>
+    <a href="https://stbhg5.tistory.com/1095">동시 요청 - 멀티 쓰레드</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
