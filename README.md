@@ -8,7 +8,7 @@
     <a href="https://stbhg5.tistory.com/1093">서블릿</a><br/>
     <a href="https://stbhg5.tistory.com/1095">동시 요청 - 멀티 쓰레드</a><br/>
     <a href="https://stbhg5.tistory.com/1096">HTML, HTTP API, CSR, SSR</a><br/>
-    <a href=""></a><br/>
+    <a href="https://stbhg5.tistory.com/1098">자바 백엔드 웹 기술 역사</a><br/>
     <br/><br/>
 
 <h2><h2/>
