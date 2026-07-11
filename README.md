@@ -17,6 +17,7 @@
 <a href="https://stbhg5.tistory.com/1105">HttpServletRequest - 개요</a><br/>
 <a href="https://stbhg5.tistory.com/1106">HttpServletRequest - 기본 사용법</a><br/>
 <a href="https://stbhg5.tistory.com/1108">HTTP 요청 데이터 - 개요</a><br/>
+<a href="https://stbhg5.tistory.com/1110">HTTP 요청 데이터 - GET 쿼리 파라미터</a><br/>
 <a href=""></a><br/>
 <br/><br/>
 
