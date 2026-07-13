@@ -19,6 +19,7 @@
 <a href="https://stbhg5.tistory.com/1108">HTTP 요청 데이터 - 개요</a><br/>
 <a href="https://stbhg5.tistory.com/1110">HTTP 요청 데이터 - GET 쿼리 파라미터</a><br/>
 <a href="https://stbhg5.tistory.com/1112">HTTP 요청 데이터 - POST HTML Form</a><br/>
+<a href="https://stbhg5.tistory.com/1114">HTTP 요청 데이터 - API 메시지 바디 - 단순 텍스트</a><br/>
 <a href=""></a><br/>
 <br/><br/>
 
