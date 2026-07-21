@@ -23,7 +23,7 @@
   <a href="https://stbhg5.tistory.com/1117">HTTP 요청 데이터 - API 메시지 바디 - JSON</a><br/>
   <a href="https://stbhg5.tistory.com/1119">HttpServletResponse - 기본 사용법</a><br/>
   <a href="https://stbhg5.tistory.com/1122">HTTP 응답 데이터 - 단순 텍스트, HTML</a><br/>
-  <a href=""></a><br/>
+  <a href="https://stbhg5.tistory.com/1124">HTTP 응답 데이터 - API JSON</a><br/>
   <br/><br/>
 
 <h2><h2/>
