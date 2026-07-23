@@ -27,8 +27,8 @@
   <a href="https://stbhg5.tistory.com/1126">서블릿 - 정리</a><br/>
   <br/><br/>
 
-<h2><h2/>
-  <a href=""></a><br/>
+<h2>3. 서블릿, JSP, MVC 패턴<h2/>
+  <a href="https://stbhg5.tistory.com/1127">회원 관리 웹 애플리케이션 요구사항</a><br/>
   <a href=""></a><br/>
   <a href=""></a><br/>
   <br/><br/>
