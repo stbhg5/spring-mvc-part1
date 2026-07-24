@@ -29,7 +29,7 @@
 
 <h2>3. 서블릿, JSP, MVC 패턴<h2/>
   <a href="https://stbhg5.tistory.com/1127">회원 관리 웹 애플리케이션 요구사항</a><br/>
-  <a href=""></a><br/>
+  <a href="https://stbhg5.tistory.com/1128">서블릿으로 회원 관리 웹 애플리케이션 만들기</a><br/>
   <a href=""></a><br/>
   <br/><br/>
 
