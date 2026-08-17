@@ -58,7 +58,7 @@
   
 <h2>6. 스프링 MVC - 기본 기능<h2/>
   <a href="https://stbhg5.tistory.com/1161">프로젝트 생성</a><br/>
-  <a href=""></a><br/>
+  <a href="https://stbhg5.tistory.com/1164">로깅 간단히 알아보기</a><br/>
   <a href=""></a><br/>
   <br/><br/>
 
