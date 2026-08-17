@@ -1,3 +1,10 @@
 spring:
   application:
     name: springmvc
+
+logging:
+  level:
+    # 전체 로그 레벨 (기본값 info)
+    root: info
+    # hello.springmvc 패키지와 그 하위 로그 레벨
+    hello.springmvc: debug
