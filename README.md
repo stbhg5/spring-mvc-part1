@@ -60,6 +60,7 @@
   <a href="https://stbhg5.tistory.com/1161">프로젝트 생성</a><br/>
   <a href="https://stbhg5.tistory.com/1164">로깅 간단히 알아보기</a><br/>
   <a href="https://stbhg5.tistory.com/1168">요청 매핑</a><br/>
+  <a href="https://stbhg5.tistory.com/1170">요청 매핑 - API 예시</a><br/>
   <a href=""></a><br/>
   <br/><br/>
 
