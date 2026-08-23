@@ -62,6 +62,7 @@
   <a href="https://stbhg5.tistory.com/1168">요청 매핑</a><br/>
   <a href="https://stbhg5.tistory.com/1170">요청 매핑 - API 예시</a><br/>
   <a href="https://stbhg5.tistory.com/1174">HTTP 요청 - 기본, 헤더 조회</a><br/>
+  <a href="https://stbhg5.tistory.com/1179">HTTP 요청 파라미터 - 쿼리 파라미터, HTML Form</a><br/>
   <a href=""></a><br/>
   <br/><br/>
 
