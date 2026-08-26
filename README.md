@@ -65,6 +65,7 @@
   <a href="https://stbhg5.tistory.com/1179">HTTP 요청 파라미터 - 쿼리 파라미터, HTML Form</a><br/>
   <a href="https://stbhg5.tistory.com/1182">HTTP 요청 파라미터 - @RequestParam</a><br/>
   <a href="https://stbhg5.tistory.com/1186">HTTP 요청 파라미터 - @ModelAttribute</a><br/>
+  <a href="https://stbhg5.tistory.com/1190">HTTP 요청 메시지 - 단순 텍스트</a><br/>
   <a href=""></a><br/>
   <br/><br/>
 
