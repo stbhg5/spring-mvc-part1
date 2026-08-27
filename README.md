@@ -66,6 +66,7 @@
   <a href="https://stbhg5.tistory.com/1182">HTTP 요청 파라미터 - @RequestParam</a><br/>
   <a href="https://stbhg5.tistory.com/1186">HTTP 요청 파라미터 - @ModelAttribute</a><br/>
   <a href="https://stbhg5.tistory.com/1190">HTTP 요청 메시지 - 단순 텍스트</a><br/>
+  <a href="https://stbhg5.tistory.com/1194">HTTP 요청 메시지 - JSON</a><br/>
   <a href=""></a><br/>
   <br/><br/>
 
