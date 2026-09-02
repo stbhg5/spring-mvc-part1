@@ -70,7 +70,7 @@
   <a href="https://stbhg5.tistory.com/1197">HTTP 응답 - 정적 리소스, 뷰 템플릿</a><br/>
   <a href="https://stbhg5.tistory.com/1207">HTTP 응답 - HTTP API, 메시지 바디에 직접 입력</a><br/>
   <a href="https://stbhg5.tistory.com/1209">HTTP 메시지 컨버터</a><br/>
-  <a href=""></a><br/>
+  <a href="https://stbhg5.tistory.com/1210">요청 매핑 핸들러 어댑터 구조</a><br/>
   <br/><br/>
 
 <h2><h2/>
