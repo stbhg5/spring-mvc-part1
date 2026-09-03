@@ -38,6 +38,11 @@ public class ResponseBodyController {
         return "ok";
     }
 
+    /**
+     * ResponseEntity
+     * HTTP 응답 전체를 객체로 표현
+     * 응답 본문 데이터 외에 HTTP 상태 코드, 헤더 정보 등을 프로그래밍적으로 설정하여 동적으로 제어할 수 있는 강력한 반환 타입
+     */
     @GetMapping("/response-body-json-v1")
     public ResponseEntity<HelloData> responseBodyJsonV1() {
         HelloData helloData = new HelloData();
