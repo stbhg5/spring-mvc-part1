@@ -73,8 +73,8 @@
   <a href="https://stbhg5.tistory.com/1210">요청 매핑 핸들러 어댑터 구조</a><br/>
   <br/><br/>
 
-<h2><h2/>
-  <a href=""></a><br/>
-  <a href=""></a><br/>
+<h2>7. 스프링 MVC - 웹 페이지 만들기<h2/>
+  <a href="https://stbhg5.tistory.com/1211">프로젝트 생성</a><br/>
+  <a href="https://stbhg5.tistory.com/1212">요구사항 분석</a><br/>
   <a href=""></a><br/>
   <br/><br/>
