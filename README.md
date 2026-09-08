@@ -79,5 +79,6 @@
   <a href="https://stbhg5.tistory.com/1213">상품 도메인 개발</a><br/>
   <a href="https://stbhg5.tistory.com/1214">상품 서비스 HTML</a><br/>
   <a href="https://stbhg5.tistory.com/1215">상품 목록 - 타임리프</a><br/>
+  <a href="https://stbhg5.tistory.com/1216">상품 상세</a><br/>
   <a href=""></a><br/>
   <br/><br/>
