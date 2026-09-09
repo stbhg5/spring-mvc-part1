@@ -80,5 +80,6 @@
   <a href="https://stbhg5.tistory.com/1214">상품 서비스 HTML</a><br/>
   <a href="https://stbhg5.tistory.com/1215">상품 목록 - 타임리프</a><br/>
   <a href="https://stbhg5.tistory.com/1216">상품 상세</a><br/>
+  <a href="https://stbhg5.tistory.com/1217">상품 등록 폼</a><br/>
   <a href=""></a><br/>
   <br/><br/>
