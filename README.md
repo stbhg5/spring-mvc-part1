@@ -81,5 +81,6 @@
   <a href="https://stbhg5.tistory.com/1215">상품 목록 - 타임리프</a><br/>
   <a href="https://stbhg5.tistory.com/1216">상품 상세</a><br/>
   <a href="https://stbhg5.tistory.com/1217">상품 등록 폼</a><br/>
+  <a href="https://stbhg5.tistory.com/1218">상품 등록 처리 - @ModelAttribute</a><br/>
   <a href=""></a><br/>
   <br/><br/>
