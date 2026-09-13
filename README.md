@@ -84,5 +84,5 @@
   <a href="https://stbhg5.tistory.com/1218">상품 등록 처리 - @ModelAttribute</a><br/>
   <a href="https://stbhg5.tistory.com/1219">상품 수정</a><br/>
   <a href="https://stbhg5.tistory.com/1220">PRG Post/Redirect/Get</a><br/>
-  <a href=""></a><br/>
+  <a href="https://stbhg5.tistory.com/1221">RedirectAttributes</a><br/>
   <br/><br/>
